@@ -3,5 +3,6 @@ Too many people know this "method" so im dropping it have fun and report it to r
 
 
 requirements to use:
-a brain\n
-residential proxies
+* a brain
+  
+* residential proxies
